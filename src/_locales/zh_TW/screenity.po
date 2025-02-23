@@ -1,0 +1,1864 @@
+# SPDX-FileCopyrightText: 2025 Kisaragi Hiu <mail@kisaragi-hiu.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: placeholder\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language: zh_TW\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"PO-Revision-Date: 2025-02-23 19:15+0900\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Lokalize 24.12.0\n"
+
+# Screenity - Screen Recorder & Annotation Tool
+#
+# Screenity - 屏幕录像和标注工具
+#. Extension name
+msgid "extName"
+msgstr "Screenity - 螢幕錄製與標註工具"
+
+# The free and privacy-friendly screen recorder with no limits. Capture, annotate, edit videos and more - all with no sign in needed.
+#
+# 最佳免费无限制屏幕录制工具。捕捉、标注、缩放、模糊、编辑视频等功能 - 无需登录，保护隐私。
+#. Extension description
+msgid "extDesc"
+msgstr "免費且保護隱私的螢幕錄製工具，沒有任何限制。錄製、標註、編輯影片等等 - 全部無需註冊。"
+
+# Record
+#
+# 录制
+#. Record tab label on popup
+msgid "recordTab"
+msgstr "錄製"
+
+# Your videos
+#
+# 您的视频
+#. Videos tab label on popup
+msgid "videosTab"
+msgstr "您的影片"
+
+# Screen
+#
+# 屏幕
+#. Screen recording type label on popup
+msgid "screenType"
+msgstr "螢幕"
+
+# Tab area
+#
+# 标签区域
+#. Tab area recording type label on popup
+msgid "tabType"
+msgstr "分頁區域"
+
+# Camera
+#
+# 摄像头
+#. Camera recording type label on popup
+msgid "cameraType"
+msgstr "攝影機"
+
+# Mockup
+#
+# 模拟
+#. Mockup recording type label on popup
+msgid "mockupType"
+msgstr "Mockup"
+
+# Custom area recording disabled
+#
+# 自定义区域录制已禁用
+#. Custom area recording disabled warning on popup for Chrome version older than 104
+msgid "customAreaRecordingDisabledTitle"
+msgstr "自訂區域錄製已停用"
+
+# Update Chrome version to 110+
+#
+# 请更新Chrome版本至110+
+#. Custom area recording disabled warning description on popup for Chrome version older than 104
+msgid "customAreaRecordingDisabledDescription"
+msgstr "請將 Chrome 更新到 110 版以上"
+
+# Update
+#
+# 更新
+#. Custom area recording disabled warning action on popup for Chrome version older than 104
+msgid "customAreaRecordingDisabledAction"
+msgstr "更新"
+
+# Check your permissions
+#
+# 请检查您的权限
+#. Camera / microphone permissions warning modal title
+msgid "permissionsModalTitle"
+msgstr "請檢查您的權限"
+
+# Looks like Screenity can’t access your camera or microphone. Make sure to allow access by clicking on the camera icon in the address bar.
+#
+# 看起来Screenity无法访问您的摄像头或麦克风。请确保通过单击地址栏中的摄像机图标允许访问。
+#. Camera / microphone permissions warning modal description
+msgid "permissionsModalDescription"
+msgstr "Screenity 似乎無法存取您的攝影機或麥克風。請確保您點擊位址列當中的相機圖示來允許存取。"
+
+# Dismiss
+#
+# 忽略
+#. Camera / microphone permissions warning modal dismiss button
+msgid "permissionsModalDismiss"
+msgstr "忽略"
+
+# Allow camera access
+#
+# 允许摄像头访问
+#. Allow camera access button
+msgid "allowCameraAccessButton"
+msgstr "允許攝影機存取"
+
+# Allow microphone access
+#
+# 允许麦克风访问
+#. Allow microphone access button
+msgid "allowMicrophoneAccessButton"
+msgstr "允許麥克風存取"
+
+# Push to talk
+#
+# 按住说话
+#. Push to talk switch label
+msgid "pushToTalkLabel"
+msgstr "Push to talk"
+
+# Set an area to record in
+#
+# 设置要录制的区域
+#. Custom area switch label
+msgid "customAreaLabel"
+msgstr "設定要錄製的區域"
+
+# Flip camera
+#
+# 翻转摄像头
+#. Flip camera switch label
+msgid "flipCameraLabel"
+msgstr "翻轉攝影機"
+
+# Background effects
+#
+# 背景效果
+#. Background effects switch label
+msgid "backgroundEffectsLabel"
+msgstr "背景效果"
+
+# Start recording
+#
+# 开始录制
+#. Record button label
+msgid "recordButtonLabel"
+msgstr "開始錄製"
+
+# Starting recording...
+#
+# 正在开始录制...
+#. Record button in progress label
+msgid "recordButtonInProgressLabel"
+msgstr "正在開始..."
+
+# Set a camera to record
+#
+# 设置摄像头以开始录制
+#. Record button label when in camera mode and no camera is selected
+msgid "recordButtonNoCameraLabel"
+msgstr "設定要錄製的攝影機"
+
+# Show more options
+#
+# 显示更多选项
+#. Show more options label
+msgid "showMoreOptionsLabel"
+msgstr "顯示更多選項"
+
+# Include system audio
+#
+# 包括系统音频
+#. Tab/system audio label
+msgid "systemAudioLabel"
+msgstr "包含系統音訊"
+
+# Hide toolbar
+#
+# 隐藏工具栏
+#. Hide toolbar label
+msgid "hideToolbarLabel"
+msgstr "隱藏工具列"
+
+# Countdown
+#
+# 倒计时
+#. Countdown label
+msgid "countdownLabel"
+msgstr "倒數計時"
+
+# Set a time limit
+#
+# 设置时间限制
+#. Alarm label
+msgid "alarmLabel"
+msgstr "設定時間限制"
+
+# Blur
+#
+# 模糊背景
+#. Blur background label
+msgid "blurTypeLabel"
+msgstr "模糊"
+
+# None
+#
+# 无
+#. No device selected
+msgid "noneDropdownLabel"
+msgstr "無"
+
+# No camera
+#
+# 无摄像头
+#. No camera selected
+msgid "noCameraDropdownLabel"
+msgstr "無攝影機"
+
+# No microphone
+#
+# 无麦克风
+#. No microphone selected
+msgid "noMicrophoneDropdownLabel"
+msgstr "無麥克風"
+
+# Select a source
+#
+# 选择源
+#. Select source placeholder
+msgid "selectSourceDropdownPlaceholder"
+msgstr "選擇來源"
+
+# Off
+#
+# 关闭
+#. Off label on dropdown
+msgid "offLabel"
+msgstr "關閉"
+
+# Width
+#
+# 宽度
+#. Region width label
+msgid "regionWidthLabel"
+msgstr "寬度"
+
+# Height
+#
+# 高度
+#. Region height label
+msgid "regionHeightLabel"
+msgstr "高度"
+
+# Click to place image
+#
+# 单击放置图像
+#. Toast that shows when adding a new image
+msgid "addImageToastTitle"
+msgstr "點擊以放置圖片"
+
+# Finish recording
+#
+# 结束录制
+#. Finish recording tooltip
+msgid "finishRecordingTooltip"
+msgstr "完成錄製"
+
+# Restart recording
+#
+# 重新开始录制
+#. Restart recording tooltip
+msgid "restartRecordingTooltip"
+msgstr "重新開始錄製"
+
+# Pause recording
+#
+# 暂停录制
+#. Pause recording tooltip
+msgid "pauseRecordingTooltip"
+msgstr "暫停錄製"
+
+# Resume recording
+#
+# 恢复录制
+#. Resume recording tooltip
+msgid "resumeRecordingTooltip"
+msgstr "繼續錄製"
+
+# Cancel recording
+#
+# 取消录制
+#. Cancel recording tooltip
+msgid "cancelRecordingTooltip"
+msgstr "取消錄製"
+
+# Toggle drawing tools
+#
+# 切换绘图工具
+#. Toggle drawing tools tooltip
+msgid "toggleDrawingToolsTooltip"
+msgstr "切換繪圖工具"
+
+# Toggle blur tool
+#
+# 切换模糊工具
+#. Toggle blur tools tooltip
+msgid "toggleBlurToolTooltip"
+msgstr "Toggle blur tool"
+
+# Toggle cursor options
+#
+# 切换光标选项
+#. Toggle cursor options tooltip
+msgid "toggleCursorOptionsTooltip"
+msgstr "Toggle cursor options"
+
+# Disable camera
+#
+# 禁用摄像头
+#. Disable camera tooltip
+msgid "disableCameraTooltip"
+msgstr "停用攝影機"
+
+# Enable camera
+#
+# 启用摄像头
+#. Enable camera tooltip
+msgid "enableCameraTooltip"
+msgstr "啟用攝影機"
+
+# No camera permissions
+#
+# 无摄像头权限
+#. No camera permissions tooltip
+msgid "noCameraPermissionsTooltip"
+msgstr "沒有攝影機權限"
+
+# Disable microphone
+#
+# 禁用麦克风
+#. Disable microphone tooltip
+msgid "disableMicrophoneTooltip"
+msgstr "Disable microphone"
+
+# Enable microphone
+#
+# 启用麦克风
+#. Enable microphone tooltip
+msgid "enableMicrophoneTooltip"
+msgstr "Enable microphone"
+
+# No microphone permissions
+#
+# 无麦克风权限
+#. No microphone permissions tooltip
+msgid "noMicrophonePermissionsTooltip"
+msgstr "No microphone permissions"
+
+# Select tool
+#
+# 选择
+#. Select tool tooltip
+msgid "selectToolTooltip"
+msgstr "Select tool"
+
+# Pen tool
+#
+# 钢笔
+#. Pen tool tooltip
+msgid "penToolTooltip"
+msgstr "Pen tool"
+
+# Highlighter tool
+#
+# 荧光笔
+#. Highlighter tool tooltip
+msgid "highlighterToolTooltip"
+msgstr "Highlighter tool"
+
+# Eraser tool
+#
+# 橡皮擦
+#. Eraser tool tooltip
+msgid "eraserToolTooltip"
+msgstr "Eraser tool"
+
+# Text tool
+#
+# 文本
+#. Text tool tooltip
+msgid "textToolTooltip"
+msgstr "Text tool"
+
+# Shape tool
+#
+# 形状工具
+#. Shape tool tooltip
+msgid "shapeToolTooltip"
+msgstr "Shape tool"
+
+# Arrow tool
+#
+# 箭头
+#. Arrow tool tooltip
+msgid "arrowToolTooltip"
+msgstr "Arrow tool"
+
+# Image tool
+#
+# 图像
+#. Image tool tooltip
+msgid "imageToolTooltip"
+msgstr "Image tool"
+
+# Undo
+#
+# 撤销
+#. Undo tooltip
+msgid "undoTooltip"
+msgstr "Undo"
+
+# Redo
+#
+# 恢复
+#. Redo tooltip
+msgid "redoTooltip"
+msgstr "Redo"
+
+# Clear canvas
+#
+# 清空画布
+#. Clear canvas tooltip
+msgid "clearCanvasTooltip"
+msgstr "Clear canvas"
+
+# More colors
+#
+# 更多颜色
+#. More colors tooltip
+msgid "moreColorsTooltip"
+msgstr "More colors"
+
+# Thick stroke
+#
+# 粗画笔
+#. Thick stroke tooltip
+msgid "thickStrokeTooltip"
+msgstr "Thick stroke"
+
+# Medium stroke
+#
+# 中画笔
+#. Medium stroke tooltip
+msgid "mediumStrokeTooltip"
+msgstr "Medium stroke"
+
+# Thin stroke
+#
+# 细画笔
+#. Thin stroke tooltip
+msgid "thinStrokeTooltip"
+msgstr "Thin stroke"
+
+# Toggle picture-in-picture mode
+#
+# 切换画中画模式
+#. Toggle picture-in-picture mode tooltip
+msgid "togglePictureinPictureModeTooltip"
+msgstr "Toggle picture-in-picture mode"
+
+# Toggle fill
+#
+# 切换填充
+#. Toggle fill tooltip
+msgid "toggleFillTooltip"
+msgstr "Toggle fill"
+
+# Drawing mode
+#
+# 绘图模式
+#. Drawing mode toast
+msgid "drawingModeToast"
+msgstr "繪圖模式"
+
+# Blur mode
+#
+# 模糊模式
+#. Blur mode toast
+msgid "blurModeToast"
+msgstr "Blur mode"
+
+# Clear all blurred elements
+#
+# 清除所有模糊元素
+#. Clear all blurred elements tooltip
+msgid "clearBlurredElementsTooltip"
+msgstr "Clear all blurred elements"
+
+# Highlight clicks
+#
+# 突出显示点击
+#. Highlight clicks tooltip
+msgid "highlightClicksTooltip"
+msgstr "Highlight clicks"
+
+# Highlight cursor
+#
+# 突出显示光标
+#. Highlight cursor tooltip
+msgid "highlightCursorTooltip"
+msgstr "Highlight cursor"
+
+# Spotlight cursor
+#
+# 聚焦光标
+#. Spotlight cursor tooltip
+msgid "spotlightCursorTooltip"
+msgstr "Spotlight cursor"
+
+# Don't show again
+#
+# 不再显示
+#. Permissions modal dismiss button
+msgid "permissionsModalNoShowAgain"
+msgstr "Don't show again"
+
+# Are you sure you want to restart the recording?
+#
+# 确定要重新开始录制吗？
+#. Restart recording modal title
+msgid "restartModalTitle"
+msgstr "Are you sure you want to restart the recording?"
+
+# Your current video progress will be lost.
+#
+# 您当前的视频进度将丢失。
+#. Restart recording modal description
+msgid "restartModalDescription"
+msgstr "Your current video progress will be lost."
+
+# Restart recording
+#
+# 重新开始录制
+#. Restart recording modal restart button
+msgid "restartModalRestart"
+msgstr "Restart recording"
+
+# Resume recording
+#
+# 继续录制
+#. Restart recording modal resume button
+msgid "restartModalResume"
+msgstr "Resume recording"
+
+# Are you sure you want to discard the recording?
+#
+# 确定要放弃录制吗？
+#. Discard recording modal title
+msgid "discardModalTitle"
+msgstr "Are you sure you want to discard the recording?"
+
+# Your current video progress will be lost.
+#
+# 您当前的视频进度将丢失。
+#. Discard recording modal description
+msgid "discardModalDescription"
+msgstr "Your current video progress will be lost."
+
+# Discard recording
+#
+# 放弃录制
+#. Discard recording modal discard button
+msgid "discardModalDiscard"
+msgstr "Discard recording"
+
+# Resume recording
+#
+# 继续录制
+#. Discard recording modal resume button
+msgid "discardModalResume"
+msgstr "Resume recording"
+
+# Choose what you want to record
+#
+# 选择要录制的内容
+#. Title in recording page
+msgid "recorderSelectTitle"
+msgstr "Choose what you want to record"
+
+# Recording...
+#
+# 录制中...
+#. Title in recording page while recording
+msgid "recorderSelectProgressTitle"
+msgstr "Recording..."
+
+# Keep this tab open. It will close once your recording has been saved.
+#
+# 保持此选项卡打开。一旦保存录制，它将关闭。
+#. Description in recording page
+msgid "recorderSelectDescription"
+msgstr "Keep this tab open. It will close once your recording has been saved."
+
+# Preparing recording...
+#
+# 准备录制中...
+#. Title in sandbox page while recording / saving
+msgid "sandboxProgressTitle"
+msgstr "Preparing recording..."
+
+# Keep this tab open. It will update with your recording when it's ready.
+#
+# 保持此选项卡打开。录制/保存完成后，它将更新。
+#. Description in sandbox page while recording / saving
+msgid "sandboxProgressDescription"
+msgstr ""
+"Keep this tab open. It will update with your recording when it's ready."
+
+# Editor
+#
+# 编辑器
+#. Title in navigation of the sandbox editor page
+msgid "sandboxEditorMainTitle"
+msgstr "Editor"
+
+# Cancel
+#
+# 取消
+#. Cancel button in sandbox editor page
+msgid "sandboxEditorCancelButton"
+msgstr "Cancel"
+
+# Revert to original
+#
+# 恢复原始状态
+#. Revert button in sandbox editor page
+msgid "sandboxEditorRevertButton"
+msgstr "Revert to original"
+
+# Reset
+#
+# 重置
+#. Reset button in sandbox editor page
+msgid "sandboxEditorResetButton"
+msgstr "Reset"
+
+# Save changes
+#
+# 保存更改
+#. Save button in sandbox editor page
+msgid "sandboxEditorSaveButton"
+msgstr "Save changes"
+
+# Saving...
+#
+# 保存中...
+#. Save button in sandbox editor page while saving
+msgid "sandboxEditorSaveProgressButton"
+msgstr "Saving..."
+
+# Drag and drop your audio file
+#
+# 拖放音频文件
+#. Drag and drop audio file in sandbox editor page
+msgid "sandboxAudioDragAndDrop"
+msgstr "Drag and drop your audio file"
+
+# Or click to browse
+#
+# 或点击浏览
+#. Or click to browse audio file in sandbox editor page
+msgid "sandboxAudioOrBrowse"
+msgstr "Or click to browse"
+
+# Settings
+#
+# 设置
+#. Audio settings title in sandbox editor page
+msgid "sandboxAudioSettingsTitle"
+msgstr "Settings"
+
+# Volume
+#
+# 音量
+#. Audio volume label in sandbox editor page
+msgid "sandboxAudioVolumeLabel"
+msgstr "Volume"
+
+# Update
+#
+# 更新
+#. Update audio button in sandbox editor page
+msgid "sandboxAudioUpdateButton"
+msgstr "Update"
+
+# Crop
+#
+# 裁剪
+#. Crop title in sandbox editor page
+msgid "sandboxCropTitle"
+msgstr "Crop"
+
+# Width
+#
+# 宽度
+#. Width label for properties
+msgid "widthLabel"
+msgstr "Width"
+
+# Height
+#
+# 高度
+#. Height label for properties
+msgid "heightLabel"
+msgstr "Height"
+
+# Left
+#
+# 左
+#. Left label for properties
+msgid "leftLabel"
+msgstr "Left"
+
+# Top
+#
+# 顶部
+#. Top label for properties
+msgid "topLabel"
+msgstr "Top"
+
+# Drag the handles and use the buttons on the left to edit the selected section.
+#
+# 拖动手柄并使用左侧的按钮编辑所选部分。
+#. Info about trimming in sandbox editor
+msgid "sandboxEditorTrimInfo"
+msgstr ""
+"Drag the handles and use the buttons on the left to edit the selected "
+"section."
+
+# Trim video
+#
+# 修剪视频
+#. Trim button in sandbox editor
+msgid "sandboxEditorTrimButton"
+msgstr "Trim video"
+
+# Trimming...
+#
+# 正在修剪...
+#. Trim button in sandbox editor while trimming
+msgid "sandboxEditorTrimProgressButton"
+msgstr "Trimming..."
+
+# Cut section
+#
+# 剪切部分
+#. Cut button in sandbox editor
+msgid "sandboxEditorCutButton"
+msgstr "Cut section"
+
+# Cutting...
+#
+# 正在剪切...
+#. Cut button in sandbox editor while cutting
+msgid "sandboxEditorCutProgressButton"
+msgstr "Cutting..."
+
+# Mute audio
+#
+# 静音音频
+#. Mute button in sandbox editor
+msgid "sandboxEditorMuteButton"
+msgstr "Mute audio"
+
+# Muting...
+#
+# 正在静音...
+#. Mute button in sandbox editor while muting
+msgid "sandboxEditorMuteProgressButton"
+msgstr "Muting..."
+
+# Learn more.
+#
+# 了解更多。
+#. Learn more with a dot
+msgid "learnMoreDot"
+msgstr "Learn more."
+
+# Undo
+#
+# 撤销
+#. Undo label
+msgid "undoLabel"
+msgstr "Undo"
+
+# Redo
+#
+# 恢复
+#. Redo label
+msgid "redoLabel"
+msgstr "Redo"
+
+# Leave a review, it helps!
+#
+# 发表评论
+#. Leave a review button
+msgid "leaveReview"
+msgstr "Leave a review, it helps!"
+
+# Follow for updates
+#
+# 关注获取更新
+#. Follow for updates button
+msgid "followForUpdates"
+msgstr "Follow for updates"
+
+# You are currently offline
+#
+# 您当前处于离线状态
+#. Offline label
+msgid "offlineLabelTitle"
+msgstr "You are currently offline"
+
+# Some features are unavailable until reconnected
+#
+# 某些功能在重新连接之前不可用
+#. Offline label description
+msgid "offlineLabelDescription"
+msgstr "Some features are unavailable until reconnected"
+
+# Try again
+#
+# 重试
+#. Offline label try again button
+msgid "offlineLabelTryAgain"
+msgstr "Try again"
+
+# Chrome needs to be updated
+#
+# Chrome 需要更新
+#. Update Chrome label
+msgid "updateChromeLabelTitle"
+msgstr "Chrome needs to be updated"
+
+# Update to access more features
+#
+# 更新以访问更多功能
+#. Update Chrome label description
+msgid "updateChromeLabelDescription"
+msgstr "Update to access more features"
+
+# Learn more
+#
+# 了解更多
+#. Learn more button
+msgid "learnMoreLabel"
+msgstr "Learn more"
+
+# Video too long to process in device
+#
+# 视频过长，无法在本地处理
+#. Over 5 minutes limit label in editor
+msgid "overLimitLabelTitle"
+msgstr "Video too long to process in device"
+
+# Editing and MP4 export are unavailable
+#
+# 编辑和MP4格式导出不可用
+#. Over 5 minutes limit description in editor
+msgid "overLimitLabelDescription"
+msgstr "Editing and MP4 export are unavailable"
+
+# The video is processing locally...
+#
+# 视频正在处理中...
+#. Video processing label in editor
+msgid "videoProcessingLabelTitle"
+msgstr "The video is processing locally..."
+
+# Learn about the faster cloud version
+#
+# 升级以加快编辑速度
+#. Video processing description in editor
+msgid "videoProcessingLabelDescription"
+msgstr "Learn about the faster cloud version"
+
+# Edit
+#
+# 编辑
+#. Edit title in sandbox editor page
+msgid "sandboxEditTitle"
+msgstr "Edit"
+
+# No connection
+#
+# 无连接
+#. No connection label
+msgid "noConnectionLabel"
+msgstr "No connection"
+
+# Not available
+#
+# 不可用
+#. Not available label
+msgid "notAvailableLabel"
+msgstr "Not available"
+
+# Edit video
+#
+# 编辑视频
+#. Trim label button
+msgid "editButtonTitle"
+msgstr "Edit video"
+
+# Trim, cut, or mute the video
+#
+# 剪辑、裁剪或静音视频
+#. Trim label
+msgid "editButtonDescription"
+msgstr "Trim, cut, or mute the video"
+
+# Preparing video, please wait...
+#
+# 正在准备视频，请稍候...
+#. Preparing label
+msgid "preparingLabel"
+msgstr "Preparing video, please wait..."
+
+# Crop
+#
+# 裁剪
+#. Crop label button
+msgid "cropButtonTitle"
+msgstr "Crop"
+
+# Crop and resize the video
+#
+# 裁剪和调整视频大小
+#. Crop label
+msgid "cropButtonDescription"
+msgstr "Crop and resize the video"
+
+# Add audio
+#
+# 添加音频
+#. Add audio label button
+msgid "addAudioButtonTitle"
+msgstr "Add audio"
+
+# Upload your own audio to add to the video
+#
+# 上传您自己的音频以添加到视频
+#. Add audio label
+msgid "addAudioButtonDescription"
+msgstr "Upload your own audio to add to the video"
+
+# Save
+#
+# 保存
+#. Save title in sandbox editor page
+msgid "sandboxSaveTitle"
+msgstr "Save"
+
+# Sign out of Drive
+#
+# 从 Drive 注销
+#. Sign out of Google Drive label
+msgid "signOutDriveLabel"
+msgstr "Sign out of Drive"
+
+# Saving...
+#
+# 保存中...
+#. Saving to Google Drive label
+msgid "savingDriveLabel"
+msgstr "Saving..."
+
+# Save to Drive
+#
+# 保存到 Drive
+#. Save to Google Drive button
+msgid "saveDriveButtonTitle"
+msgstr "Save to Drive"
+
+# Save the current version to Google Drive
+#
+# 将当前版本保存到 Google Drive
+#. Save to Google Drive label
+msgid "saveDriveButtonDescription"
+msgstr "Save the current version to Google Drive"
+
+# Sign in and save to Drive
+#
+# 登录并保存到 Drive
+#. Sign in to Google Drive label
+msgid "signInDriveLabel"
+msgstr "Sign in and save to Drive"
+
+# Export
+#
+# 导出
+#. Export title in sandbox editor page
+msgid "sandboxExportTitle"
+msgstr "Export"
+
+# Downloading...
+#
+# 下载中...
+#. Downloading label
+msgid "downloadingLabel"
+msgstr "Downloading..."
+
+# Download as .webm
+#
+# 下载为 .webm
+#. Download WEBM button
+msgid "downloadWEBMButtonTitle"
+msgstr "Download as .webm"
+
+# Export a .webm video
+#
+# 导出为 .webm 视频
+#. Download WEBM label
+msgid "downloadWEBMButtonDescription"
+msgstr "Export a .webm video"
+
+# Download as .mp4
+#
+# 下载为 .mp4
+#. Download MP4 button
+msgid "downloadMP4ButtonTitle"
+msgstr "Download as .mp4"
+
+# Export an .mp4 video (recommended)
+#
+# 导出为 .mp4 视频（推荐）
+#. Download MP4 label
+msgid "downloadMP4ButtonDescription"
+msgstr "Export an .mp4 video (recommended)"
+
+# Download as .gif
+#
+# 下载为 .gif
+#. Download GIF button
+msgid "downloadGIFButtonTitle"
+msgstr "Download as .gif"
+
+# Export a GIF (max 30 seconds)
+#
+# 导出为 GIF（最长30秒）
+#. Download GIF label
+msgid "downloadGIFButtonDescription"
+msgstr "Export a GIF (max 30 seconds)"
+
+# Share your videos with others
+#
+# 与他人分享您的视频
+#. Share modal title in sandbox editor page
+msgid "shareModalSandboxTitle"
+msgstr "Share your videos with others"
+
+# Coming soon! Leave your email to stay updated and be notified when sharing is available.
+#
+# 即将推出！留下您的电子邮件以保持更新，并在分享可用时收到通知。
+#. Share modal description in sandbox editor page
+msgid "shareModalSandboxDescription"
+msgstr ""
+"Coming soon! Leave your email to stay updated and be notified when sharing "
+"is available."
+
+# Join the waitlist
+#
+# 加入等待列表
+#. Share modal email placeholder in sandbox editor page
+msgid "shareModalSandboxButton"
+msgstr "加入等待列表"
+
+# Share video
+#
+# 分享视频
+#. Share button in sandbox editor page
+msgid "shareSandboxButton"
+msgstr "分享影片"
+
+# Replace existing audio
+#
+# 替换现有音频
+#. Replace audio button in editor
+msgid "replaceAudioEditor"
+msgstr "取代現有音訊"
+
+# Zoom to cursor
+#
+# 缩放到光标位置
+#. Zoom to point popup
+msgid "zoomToPointPopup"
+msgstr "縮放到游標位置"
+
+# Stay in the page when recording
+#
+# 录制时保持在页面中
+#. Stay in page popup
+msgid "stayInPagePopup"
+msgstr "錄製時留在頁面中"
+
+# Microphone off warning
+#
+# 麦克风已关闭警告
+#. Mic reminder popup
+msgid "micReminderPopup"
+msgstr "麥克風關閉警告"
+
+# Help
+#
+# 帮助
+#. Help popup button
+msgid "helpPopup"
+msgstr "說明"
+
+# Recording paused. Press the play button to resume.
+#
+# 录制已暂停。按播放按钮继续。
+#. Paused recording modal title
+msgid "pausedRecordingToast"
+msgstr "錄製已暫停。請按播放按鈕來繼續。"
+
+# Screenity doesn't have permission to record your screen
+#
+# Screenity 没有权限录制您的屏幕
+#. Permission modal title
+msgid "chromePermissionsModalTitle"
+msgstr "Screenity 沒有權限錄製您的螢幕"
+
+# To enable screen recording, you must grant Screenity permission to capture your screen when prompted.
+#
+# 为启用屏幕录制，您必须在提示时授予 Screenity 捕获屏幕的权限。
+#. Permission modal description
+msgid "chromePermissionsModalDescription"
+msgstr "要啟用螢幕錄製，您必須在向您詢問時提供 Screenity 擷取您的螢幕內容的權限。"
+
+# Enable screen recording
+#
+# 启用屏幕录制
+#. Permission modal action
+msgid "chromePermissionsModalAction"
+msgstr "啟用螢幕錄製"
+
+# Cancel
+#
+# 取消
+#. Permission modal cancel
+msgid "chromePermissionsModalCancel"
+msgstr "取消"
+
+# Your microphone is muted
+#
+# 您的麦克风已静音
+#. Microphone muted modal title
+msgid "micMutedModalTitle"
+msgstr "您的麥克風已靜音"
+
+# To include audio in your recording, you'll need to unmute your microphone. Do you want to continue without audio?
+#
+# 要在录制中包含音频，您需要解除麦克风的静音。是否继续不使用音频？
+#. Microphone muted modal description
+msgid "micMutedModalDescription"
+msgstr "要在錄影當中包含音訊，您會需要解除麥克風的靜音。還是您要不包含音訊直接繼續操作？"
+
+# Yes, continue
+#
+# 是的，继续
+#. Microphone muted modal continue
+msgid "micMutedModalAction"
+msgstr "是，繼續"
+
+# Cancel
+#
+# 取消
+#. Microphone muted modal cancel
+msgid "micMutedModalCancel"
+msgstr "取消"
+
+# Get started with Screenity in three simple steps:
+#
+# 在三个简单步骤中开始使用Screenity：
+#. Set up steps title
+msgid "setupTitle"
+msgstr "Get started with Screenity in three simple steps:"
+
+# 1- Click the
+#
+# 1- 点击
+#. Set up step 1, before the icon. It needs a space at the end.
+msgid "setupStep1Before"
+msgstr "1- 點擊 "
+
+#  extensions icon
+#
+#  扩展图标
+#. Set up step 1, after the icon. It needs a space at the beginning.
+msgid "setupStep1After"
+msgstr " 擴充功能圖示"
+
+# 2- Press the
+#
+# 2- 按下
+#. Set up step 2, before the icon. It needs a space at the end.
+msgid "setupStep2Before"
+msgstr "2- 按下 "
+
+#  pin icon
+#
+#  固定图标
+#. Set up step 2, after the icon. It needs a space at the beginning.
+msgid "setupStep2After"
+msgstr " 固定圖示"
+
+# 3- Click on the
+#
+# 3- 点击
+#. Set up step 3, before the icon. It needs a space at the end.
+msgid "setupStep3Before"
+msgstr "3- 點擊 "
+
+#  Screenity icon to start
+#
+#  Screenity图标以启动
+#. Set up step 3, after the icon. It needs a space at the beginning.
+msgid "setupStep3After"
+msgstr " Screenity 圖示來開始使用"
+
+# Awesome! You’re all set
+#
+# 太棒了！您已经准备好了
+#. Set up complete title
+msgid "setupCompleteTitle"
+msgstr "太好了！您已準備就緒"
+
+# You can now start recording here, or in any other tab.
+#
+# 您现在可以在这里开始录制，或在任何其他标签中。
+#. Set up complete description
+msgid "setupCompleteDescription"
+msgstr "您現在可以從這裡開始錄製，也可以從其他任何分頁開始。"
+
+# Click here to draw
+#
+# 单击此处进行绘制
+#. Click here onboarding
+msgid "clickHereDrawOnboarding"
+msgstr "點擊此處以開始繪圖"
+
+# Relax. Click anywhere to stop the countdown.
+#
+# 放松。单击任何地方停止倒计时。
+#. Countdown message
+msgid "countdownMessage"
+msgstr "Relax. Click anywhere to stop the countdown."
+
+# Edits may be inaccurate for short time ranges due to the intervals between frames.
+#
+# 由于帧之间的间隔，对于短时间范围，编辑可能不准确。
+#. Info about the editor being too small
+msgid "sandboxEditorTooSmallInfo"
+msgstr ""
+"Edits may be inaccurate for short time ranges due to the intervals between "
+"frames."
+
+# Video is processing, playback might be inaccurate or interrupted.
+#
+# 视频正在处理，播放可能不准确或中断。
+#. Processing banner in editor
+msgid "processingBannerEditor"
+msgstr "Video is processing, playback might be inaccurate or interrupted."
+
+# Cropping might take a while
+#
+# 裁剪可能需要一些时间
+#. Cropping info title
+msgid "croppingInfoTitle"
+msgstr "Cropping might take a while"
+
+# Upgrade for faster processing
+#
+# 升级以获得更快的处理速度
+#. Cropping info description
+msgid "croppingInfoDescription"
+msgstr "Upgrade for faster processing"
+
+# Microphone enabled
+#
+# 麦克风已启用
+#. Microphone enabled toast title
+msgid "micOnToast"
+msgstr "Microphone enabled"
+
+# Microphone disabled
+#
+# 麦克风已禁用
+#. Microphone disabled toast title
+msgid "micOffToast"
+msgstr "Microphone disabled"
+
+# Hide UI notifications
+#
+# 隐藏UI通知
+#. Hide UI alerts button
+msgid "hideUIAlerts"
+msgstr "Hide UI notifications"
+
+# Don't show again
+#
+# 不再显示
+#. Don't show again button
+msgid "noShowAgain"
+msgstr "不要再顯示"
+
+# Hide toolbar when not in use
+#
+# 在不使用时隐藏工具栏
+#. Only show toolbar on hover button
+msgid "toolbarHoverOnly"
+msgstr "Hide toolbar when not in use"
+
+# Stop recording
+#. Stop recording button in recording scren
+msgid "stopRecording"
+msgstr "Stop recording"
+
+# Welcome to the new Screenity!
+#
+# 欢迎使用新版 Screenity！
+#. Update announcement title for existing users
+msgid "updateAnnouncementTitle"
+msgstr "Welcome to the new Screenity!"
+
+# We’re introducing a new look and many exciting features, but don’t worry, it’s still the same free, private and open source extension you know and love.
+#
+# 我们进行了设计更新并增加了许多新功能，但请放心，它仍然是您熟悉和喜爱的免费、私密且开源的扩展。
+#. Update announcement description for existing users
+msgid "updateAnnouncementDescription"
+msgstr ""
+"We’re introducing a new look and many exciting features, but don’t worry, "
+"it’s still the same free, private and open source extension you know and "
+"love."
+
+# Learn more about the update.
+#
+# 了解有关更新的更多信息。
+#. Update announcement learn more link for existing users
+msgid "updateAnnouncementLearnMore"
+msgstr "Learn more about the update."
+
+# Get started
+#
+# 开始使用
+#. Update announcement button for existing users
+msgid "updateAnnouncementButton"
+msgstr "Get started"
+
+# Error starting the recording
+#
+# 启动录制时出错
+#. Stream error modal title
+msgid "streamErrorModalTitle"
+msgstr "Error starting the recording"
+
+# Looks like there was an error starting the recording. Restart your browser and try again. If the issue persists, please contact us at support@screenity.io.
+#
+# 看起来启动录制时出现了错误。请重新启动您的浏览器并重试。如果问题仍然存在，请通过 support@screenity.io 与我们联系。
+#. Stream error modal description
+msgid "streamErrorModalDescription"
+msgstr ""
+"Looks like there was an error starting the recording. Restart your browser "
+"and try again. If the issue persists, please contact us at "
+"support@screenity.io."
+
+# Highest quality
+#
+# 最高质量
+#. Highest quality toggle label in popup
+msgid "highestQuality"
+msgstr "Highest quality"
+
+# Restore last recording
+#
+# 恢复最近的录音
+#. Restore last recording button in popup
+msgid "restoreRecording"
+msgstr "Restore last recording"
+
+# Having issues?
+#
+# 遇到问题了吗？
+#. Having issues button in editor
+msgid "havingIssuesButton"
+msgstr "Having issues?"
+
+# Can't see your recording?
+#
+# 无法查看您的录像？
+#. Having issues modal title in editor
+msgid "havingIssuesModalTitle"
+msgstr "Can't see your recording?"
+
+# If you've completed your recording and find yourself on this page without seeing your video, you can attempt to download the raw video data if it's available. You can also reach out and submit a bug report.
+#
+# 如果您已经完成录制并发现自己在此页面上看不到您的视频，您可以尝试下载原始视频数据（如果可用）。您还可以联系我们并提交错误报告。
+#. Having issues modal description in editor
+msgid "havingIssuesModalDescription"
+msgstr ""
+"If you've completed your recording and find yourself on this page without "
+"seeing your video, you can attempt to download the raw video data if it's "
+"available. You can also reach out and submit a bug report."
+
+# Download raw video data
+#
+# 下载原始视频数据
+#. Having issues modal button in editor
+msgid "havingIssuesModalButton"
+msgstr "Download raw video data"
+
+# Report bug
+#
+# 报告问题
+#. Having issues modal button 2 in editor
+msgid "havingIssuesModalButton2"
+msgstr "Report bug"
+
+# No recording found, sorry :(
+#
+# 未找到录制，抱歉 :(
+#. No recording found alert in editor
+msgid "noRecordingFound"
+msgstr "No recording found, sorry :("
+
+# Memory limit reached
+#
+# 内存限制达到
+#. Memory limit reached title
+msgid "memoryLimitTitle"
+msgstr "Memory limit reached"
+
+# Your device has run out of memory to record, so the recording has stopped automatically. If you'd like to record for longer, you can try lowering the quality of the video, or clearing up some space on your device.
+#
+# 您的设备已经用尽了可用内存进行录制，导致录制自动停止。如果您想要录制更长时间，可以尝试降低视频质量或清理设备上的一些空间。
+#. Memory limit reached description
+msgid "memoryLimitDescription"
+msgstr ""
+"Your device has run out of memory to record, so the recording has stopped "
+"automatically. If you'd like to record for longer, you can try lowering the "
+"quality of the video, or clearing up some space on your device."
+
+# Understood
+#
+# 知道了
+#. Understood button
+msgid "understoodButton"
+msgstr "Understood"
+
+# Not enough space
+#
+# 空间不足
+#. Not enough space title
+msgid "notEnoughSpaceTitle"
+msgstr "Not enough space"
+
+# Screenity needs at least 1GB of free space to record. Please free up some space and try again.
+#
+# Screenity需要至少1GB的空闲空间进行录制。请释放设备上的空间并重试。
+#. Not enough space description
+msgid "notEnoughSpaceDescription"
+msgstr ""
+"Screenity needs at least 1GB of free space to record. Please free up some "
+"space and try again."
+
+# Clear previous recordings
+#
+# 清除之前的录制
+#. Clear previous recordings button
+msgid "clearSpaceButton"
+msgstr "Clear previous recordings"
+
+# Advanced
+#
+# 高级
+#. Advanced section in sandbox editor page
+msgid "sandboxAdvancedTitle"
+msgstr "Advanced"
+
+# Download raw video file
+#
+# 下载原始视频文件
+#. Download raw recording button
+msgid "rawRecordingButtonTitle"
+msgstr "Download raw video file"
+
+# Export the original recording data
+#
+# 导出原始录制数据
+#. Download raw recording label
+msgid "rawRecordingButtonDescription"
+msgstr "Export the original recording data"
+
+# Get help with your recording
+#
+# 获取有关您的录制的帮助
+#. Troubleshoot button
+msgid "troubleshootButtonTitle"
+msgstr "Get help with your recording"
+
+# Recover your video and solve other issues
+#
+# 恢复您的视频并解决其他问题
+#. Troubleshoot label
+msgid "troubleShootButtonDescription"
+msgstr "Recover your video and solve other issues"
+
+# Download raw video file
+#
+# 下载原始视频文件
+#. Raw recording modal title
+msgid "rawRecordingModalTitle"
+msgstr "Download raw video file"
+
+# The raw video file is the original video file that was recorded by Screenity. This video is not processed or edited, so it may be very large and may not be playable on all devices. If you are having issues with the processed video, you can use this file to recover your video.
+#
+# 原始视频文件是由Screenity录制的原始视频文件。此视频未经处理或编辑，因此可能非常大且可能无法在所有设备上播放。如果您在处理后的视频方面遇到问题，可以使用此文件恢复您的视频。
+#. Raw recording modal description
+msgid "rawRecordingModalDescription"
+msgstr ""
+"The raw video file is the original video file that was recorded by "
+"Screenity. This video is not processed or edited, so it may be very large "
+"and may not be playable on all devices. If you are having issues with the "
+"processed video, you can use this file to recover your video."
+
+# Download
+#
+# 下载
+#. Raw recording modal button
+msgid "rawRecordingModalButton"
+msgstr "Download"
+
+# Download system information and video data and send for troubleshooting
+#
+# 下载系统信息和视频数据并发送进行故障排除
+#. Troubleshoot modal title
+msgid "troubleshootModalTitle"
+msgstr ""
+"Download system information and video data and send for troubleshooting"
+
+# After downloading, send the file to support@screenity.io with any relevant information. We will use this data to help you troubleshoot any issues you are having with the extension, and recover your video if possible.
+#
+# 下载后，请将文件发送至support@screenity.io，附上任何相关信息。我们将使用此数据帮助您解决扩展程序的任何问题，并在可能的情况下恢复您的视频。
+#. Troubleshoot modal description
+msgid "troubleshootModalDescription"
+msgstr ""
+"After downloading, send the file to support@screenity.io with any relevant "
+"information. We will use this data to help you troubleshoot any issues you "
+"are having with the extension, and recover your video if possible."
+
+# Download
+#
+# 下载
+#. Troubleshoot modal button
+msgid "troubleshootModalButton"
+msgstr "Download"
+
+# The video is too long to process in your device
+#
+# 视频过长，无法在您的设备上处理
+#. Over 5 minutes limit modal title
+msgid "overLimitModalTitle"
+msgstr "The video is too long to process in your device"
+
+# Since Screenity is completely private and runs locally, it's limited by your device's hardware. Processing a video of this length would take too long, and be very resource intensive. Don't worry, you can still download the WEBM file or the raw recording, but editing and MP4 export are not available. That said, you can still try to process the video anyway, if you understand the risks.
+#
+# 由于Screenity完全私密且在本地运行，它受到您设备硬件的限制。处理这样长度的视频需要很长时间，而且资源消耗很大。但您仍然可以下载WEBM文件或原始录制文件，但无法进行编辑和MP4导出。尽管如此，如果您了解风险，仍然可以尝试处理该视频。
+#. Over 5 minutes limit modal description
+msgid "overLimitModalDescription"
+msgstr ""
+"Since Screenity is completely private and runs locally, it's limited by "
+"your device's hardware. Processing a video of this length would take too "
+"long, and be very resource intensive. Don't worry, you can still download "
+"the WEBM file or the raw recording, but editing and MP4 export are not "
+"available. That said, you can still try to process the video anyway, if you "
+"understand the risks."
+
+# I understand the risk, try anyway
+#
+# 我理解风险，仍然尝试
+#. Over 5 minutes limit modal button
+msgid "overLimitModalButton"
+msgstr "I understand the risk, try anyway"
+
+# Learn more about processing long videos.
+#
+# 了解有关处理长视频的更多信息。
+#. Over 5 minutes limit modal learn more link with a dot
+msgid "overLimitModalLearnMore"
+msgstr "Learn more about processing long videos."
+
+# Recovery mode
+#
+# 恢复模式
+#. Recovery mode title
+msgid "recoveryModeTitle"
+msgstr "Recovery mode"
+
+# Download data for troubleshooting
+#
+# 下载故障排除数据
+#. Download for troubleshooting option
+msgid "downloadForTroubleshootingOption"
+msgstr "Download data for troubleshooting"
+
+# Help center
+#
+# 帮助中心
+#. Get help nav item
+msgid "getHelpNav"
+msgstr "Help center"
+
+# Record computer audio
+#
+# 录制页面音频
+#. Audio warning title
+msgid "audioWarningTitle"
+msgstr "錄製電腦音訊"
+
+# To record audio from this page, you need to switch to ‘$tab$’.
+#
+# 要录制此页面的音频，请使用'$tab$'选项。
+#. 音訊警告說明
+msgid "audioWarningDescription"
+msgstr "要錄製此網頁的音訊，請使用'$tab$'選項。"
+
+# Extension not supported on tab
+#
+# 页面不支持扩展
+#. Extension not supported on tab
+msgid "extensionNotSupportedTitle"
+msgstr "擴充功能在該分頁中不支援"
+
+# Screenity wasn't supported in your previous tab. You can still start your recording here and switch back to the tab, but your camera and toolbar won't be visible.
+#
+# Screenity在您之前的选项卡上不受支持。尽管如此，您可以在此开始录制，然后切换到选项卡，但您的摄像头和工具栏将不可见。
+#. Extension not supported on tab description
+msgid "extensionNotSupportedDescription"
+msgstr "Screenity 不支援您先前的分頁。您還是可以從這裡開始錄製然後再切換回該分頁，但是攝影機和工具列會沒辦法顯示。"
+
+# Set up a local backup for your Screenity recordings
+#
+# 为Screenity录制设置本地备份
+#. Backups title
+msgid "backupsTitle"
+msgstr "Set up a local backup for your Screenity recordings"
+
+# Keep a copy of all the recordings you make. If you don’t set up backups, your recordings will only be saved when you choose to download them.
+#
+# 保留您进行的所有录制的备份。如果您不设置备份，只有在决定下载它们时才会保存您的录制。
+#. Backups description
+msgid "backupsDescription1"
+msgstr ""
+"Keep a copy of all the recordings you make. If you don’t set up backups, "
+"your recordings will only be saved when you choose to download them."
+
+# You might need to create a new folder first if you're trying to save to Downloads or other system folders.
+#
+# 如果您尝试保存到下载或其他系统文件夹，则可能需要首先创建一个新文件夹。
+#. Backups description
+msgid "backupsDescription2"
+msgstr ""
+"You might need to create a new folder first if you're trying to save to "
+"Downloads or other system folders."
+
+# Select a folder
+#
+# 选择文件夹
+#. Select a folder button
+msgid "backupsSelectFolder"
+msgstr "選擇資料夾"
+
+# Not now
+#
+# 现在不
+#. Not now button
+msgid "backupsNotNow"
+msgstr "Not now"
+
+#  Your recordings are being backed up locally
+#
+# 您的录制已本地同步
+#. Backups on title
+msgid "backupsOnTitle"
+msgstr " Your recordings are being backed up locally"
+
+# To prevent being asked for permissions every time you record, we recommend leaving this tab open.
+#
+# 为了避免每次录制时都请求权限，我们建议保持此选项卡打开。
+#. Backups on description
+msgid "backupsOnDescription"
+msgstr ""
+"To prevent being asked for permissions every time you record, we recommend "
+"leaving this tab open."
+
+# Close tab anyway
+#
+# 仍然关闭选项卡
+#. Close tab anyway button
+msgid "backupsClose"
+msgstr "還是要關閉分頁"
+
+# Stop backing up all recordings
+#
+# 停止所有录制的备份
+#. Stop backups button
+msgid "backupsStop"
+msgstr "停止備份所有錄影"
+
+# Please reconfirm access to your local Screenity backup folder
+#
+# 请重新确认对Screenity本地备份文件夹的访问权限
+#. Backups confirm title
+msgid "backupsConfirmTitle"
+msgstr "Please reconfirm access to your local Screenity backup folder"
+
+# We’re sorry, but we need your permission once more to keep backing up your recordings. Unfortunately we will need to ask every time this tab is closed, which can happen if you close the browser or restart your computer.
+#
+# 很抱歉，我们需要再次获得您的许可，以继续创建您的录制的本地副本。不幸的是，每次关闭此选项卡时，我们都需要询问，这可能会在您关闭浏览器或重新启动计算机时发生。
+#. Backups confirm description
+msgid "backupsConfirmDescription"
+msgstr ""
+"We’re sorry, but we need your permission once more to keep backing up your "
+"recordings. Unfortunately we will need to ask every time this tab is "
+"closed, which can happen if you close the browser or restart your computer."
+
+# Allow Screenity to keep backing up recordings
+#
+# 允许Screenity继续备份录制
+#. Backups confirm allow button
+msgid "backupsConfirmAllow"
+msgstr "Allow Screenity to keep backing up recordings"
+
+# Back up recordings
+#
+# 备份录制
+#. Backups toggle label
+msgid "backupsToggle"
+msgstr "備份錄影"
+
+# Permission not granted to back up the recording
+#
+# 未授予备份录制的权限
+#. Backup permission fail title
+msgid "backupPermissionFailTitle"
+msgstr "Permission not granted to back up the recording"
+
+# You didn't select a folder to backup your recordings. Depending on your browser version or operating system you might be asked to select the folder every time you start recording. You can try again, or disable backups entirely if you'd rather not give permissions repeatedly.
+#
+# 您未选择要创建您的录制的本地副本的文件夹。根据浏览器或操作系统的版本，每次开始录制时可能会要求您选择文件夹。您可以再次尝试或完全禁用备份，如果您不想重复授予权限。
+#. Backup permission fail description
+msgid "backupPermissionFailDescription"
+msgstr ""
+"You didn't select a folder to backup your recordings. Depending on your "
+"browser version or operating system you might be asked to select the folder "
+"every time you start recording. You can try again, or disable backups "
+"entirely if you'd rather not give permissions repeatedly."
+
+# Record computer audio
+#
+# 录制计算机音频
+#. Record audio warning title
+msgid "recordAudioWarningMacTitle"
+msgstr "Record computer audio"
+
+# In macOS, you can only record Tab audio. Select the Chrome Tab option and make sure 'Also share tab audio' is enabled.
+#
+# 在macOS上，您只能录制选项卡的音频。请选择'Chrome选项卡'选项，并确保启用'同时共享选项卡音频'选项。
+#. macOS audio warning description
+msgid "recordAudioWarningMacDescription"
+msgstr ""
+"In macOS, you can only record Tab audio. Select the Chrome Tab option and "
+"make sure 'Also share tab audio' is enabled."
+
+# Record computer audio
+#
+# 录制计算机音频
+#. Record audio warning title
+msgid "recordAudioWarningOtherTitle"
+msgstr "Record computer audio"
+
+# Make sure to enable the option to 'Share system audio' if you want to record computer audio. If you don't see this option, try updating Chrome, or switch to Tab recording.
+#
+# 如果您想录制计算机音频，请确保启用'共享系统音频'选项。如果您看不到此选项，请尝试更新Chrome或切换到选项卡录制选项。
+#. Other audio warning description
+msgid "recordAudioWarningOtherDescription"
+msgstr ""
+"Make sure to enable the option to 'Share system audio' if you want to "
+"record computer audio. If you don't see this option, try updating Chrome, "
+"or switch to Tab recording."
+
+# Max resolution
+#
+# 最高分辨率
+#. Max resolution label in settings menu
+msgid "maxResolutionLabel"
+msgstr "最大解析度"
+
+# Max FPS
+#
+# 最高帧率
+#. Max FPS label in settings menu
+msgid "maxFPSLabel"
+msgstr "最大幀率"
+
+# Not enough RAM
+#
+# 内存不足
+#. Not enough RAM label in settings menu
+msgid "notEnoughRAM"
+msgstr "記憶體不足"
+
+# Resize window
+#
+# 调整窗口大小
+#. Resize window label in settings menu
+msgid "resizeWindowLabel"
+msgstr "調整視窗大小"
+
+# The screen is too small for this resolution
+#
+# 屏幕尺寸不足以支持此分辨率
+#. Screen too small tooltip in settings menu
+msgid "screenTooSmallTooltip"
+msgstr "The screen is too small for this resolution"
+
+# Cannot record at this resolution in your device
+#
+# 您的设备无法以此分辨率录制
+#. Maxed out resolution tooltip in settings menu
+msgid "maxResolutionTooltip"
+msgstr "Cannot record at this resolution in your device"
+
+# Review permissions
+#
+# 审查权限
+#. Review permissions button
+msgid "permissionsModalReview"
+msgstr "審閱權限"
