@@ -8,7 +8,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "Language: zh_TW\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
-"PO-Revision-Date: 2025-02-24 16:43+0900\n"
+"PO-Revision-Date: 2025-02-24 19:03+0900\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "MIME-Version: 1.0\n"
 "X-Generator: Lokalize 25.03.70\n"
@@ -613,7 +613,7 @@ msgstr "錄製中..."
 # 保持此选项卡打开。一旦保存录制，它将关闭。
 #. Description in recording page
 msgid "recorderSelectDescription"
-msgstr "Keep this tab open. It will close once your recording has been saved."
+msgstr "請維持這個分頁開啟。您的錄影完成儲存之後它便會關閉。"
 
 # Preparing recording...
 #
@@ -628,6 +628,7 @@ msgstr "正在準備錄製..."
 #. Description in sandbox page while recording / saving
 msgid "sandboxProgressDescription"
 msgstr ""
+"請維持這個分頁開啟。您的錄影就緒後它便會更新並顯示您的錄影。"
 "Keep this tab open. It will update with your recording when it's ready."
 
 # Editor
@@ -817,7 +818,7 @@ msgstr "重做"
 # 发表评论
 #. Leave a review button
 msgid "leaveReview"
-msgstr "Leave a review, it helps!"
+msgstr "留下評論，這很有幫助！"
 
 # Follow for updates
 #
@@ -894,7 +895,7 @@ msgstr "影片正在於本機處理中..."
 # 升级以加快编辑速度
 #. Video processing description in editor
 msgid "videoProcessingLabelDescription"
-msgstr "Learn about the faster cloud version"
+msgstr "瞭解更多關於更快速的雲端版本的資訊"
 
 # Edit
 #
@@ -1076,9 +1077,7 @@ msgstr "與他人分享您的影片"
 # 即将推出！留下您的电子邮件以保持更新，并在分享可用时收到通知。
 #. Share modal description in sandbox editor page
 msgid "shareModalSandboxDescription"
-msgstr ""
-"Coming soon! Leave your email to stay updated and be notified when sharing "
-"is available."
+msgstr "即將推出！留下您的電子郵件來獲得最新資訊，並在分享功能發佈時收到通知。"
 
 # Join the waitlist
 #
@@ -1197,7 +1196,7 @@ msgstr "取消"
 # 在三个简单步骤中开始使用Screenity：
 #. Set up steps title
 msgid "setupTitle"
-msgstr "Get started with Screenity in three simple steps:"
+msgstr "要開始使用 Screenity 只要三個簡單步驟："
 
 # 1- Click the
 #
@@ -1267,7 +1266,7 @@ msgstr "點擊此處以開始繪圖"
 # 放松。单击任何地方停止倒计时。
 #. Countdown message
 msgid "countdownMessage"
-msgstr "Relax. Click anywhere to stop the countdown."
+msgstr "放鬆吧。要停止倒數計時點擊任何地方即可。"
 
 # Edits may be inaccurate for short time ranges due to the intervals between frames.
 #
@@ -1275,6 +1274,7 @@ msgstr "Relax. Click anywhere to stop the countdown."
 #. Info about the editor being too small
 msgid "sandboxEditorTooSmallInfo"
 msgstr ""
+"由於影格之間的間隔，短時間範圍的編輯可能不準確。"
 "Edits may be inaccurate for short time ranges due to the intervals between "
 "frames."
 
@@ -1351,10 +1351,7 @@ msgstr "歡迎來到新版 Screenity！"
 # 我们进行了设计更新并增加了许多新功能，但请放心，它仍然是您熟悉和喜爱的免费、私密且开源的扩展。
 #. Update announcement description for existing users
 msgid "updateAnnouncementDescription"
-msgstr ""
-"We’re introducing a new look and many exciting features, but don’t worry, "
-"it’s still the same free, private and open source extension you know and "
-"love."
+msgstr "我們為您帶來新的外觀與許多有趣的新功能，但請放心，Screenity 仍然是您所熟悉且喜愛的免費、保護隱私且開源的擴充元件。"
 
 # Learn more about the update.
 #
@@ -1382,10 +1379,7 @@ msgstr "開始錄製時發生錯誤"
 # 看起来启动录制时出现了错误。请重新启动您的浏览器并重试。如果问题仍然存在，请通过 support@screenity.io 与我们联系。
 #. Stream error modal description
 msgid "streamErrorModalDescription"
-msgstr ""
-"Looks like there was an error starting the recording. Restart your browser "
-"and try again. If the issue persists, please contact us at "
-"support@screenity.io."
+msgstr "開始錄製時似乎發生了錯誤。請重新開啟您的瀏覽器後再試一次。如果問題還是存在，請寄信到 support@screenity.io 與我們聯繫。"
 
 # Highest quality
 #
@@ -1406,7 +1400,7 @@ msgstr "回復上次的錄影"
 # 遇到问题了吗？
 #. Having issues button in editor
 msgid "havingIssuesButton"
-msgstr "Having issues?"
+msgstr "遇到問題了嗎？"
 
 # Can't see your recording?
 #
@@ -1537,10 +1531,8 @@ msgstr "下載原始影片檔案"
 #. Raw recording modal description
 msgid "rawRecordingModalDescription"
 msgstr ""
-"The raw video file is the original video file that was recorded by "
-"Screenity. This video is not processed or edited, so it may be very large "
-"and may not be playable on all devices. If you are having issues with the "
-"processed video, you can use this file to recover your video."
+"原始影片檔案是 Screenity 錄製時原本所產生的影片檔。這個影片沒有處理過或編輯過，所以可能會非常大或不被所有裝置支援。如果您在使用處理後的影片時有發"
+"生問題，您可以使用這個檔案來復原您的影片。"
 
 # Download
 #
@@ -1585,12 +1577,8 @@ msgstr "影片在您的裝置上花太長時間處理了"
 #. Over 5 minutes limit modal description
 msgid "overLimitModalDescription"
 msgstr ""
-"Since Screenity is completely private and runs locally, it's limited by "
-"your device's hardware. Processing a video of this length would take too "
-"long, and be very resource intensive. Don't worry, you can still download "
-"the WEBM file or the raw recording, but editing and MP4 export are not "
-"available. That said, you can still try to process the video anyway, if you "
-"understand the risks."
+"由於 Screenity 完全在本機執行來保護隱私，它也受您的裝置硬體限制。處理這個長度的影片會需要太久，並需要大量電腦資源。不用擔心，您還是可以下載 WE"
+"BM 檔案或是原始錄影，只是編輯功能與 MP4 匯出會無法使用。雖然是這樣說，如果您瞭解風險您還是可以決定嘗試處理影片。"
 
 # I understand the risk, try anyway
 #
@@ -1604,7 +1592,7 @@ msgstr "我瞭解風險，而仍要嘗試"
 # 了解有关处理长视频的更多信息。
 #. Over 5 minutes limit modal learn more link with a dot
 msgid "overLimitModalLearnMore"
-msgstr "Learn more about processing long videos."
+msgstr "瞭解更多關於處理長影片的資訊。"
 
 # Recovery mode
 #
@@ -1660,25 +1648,21 @@ msgstr "Screenity 不支援您先前的分頁。您還是可以從這裡開始�
 # 为Screenity录制设置本地备份
 #. Backups title
 msgid "backupsTitle"
-msgstr "Set up a local backup for your Screenity recordings"
+msgstr "為您的 Screenity 錄影建立本機備份"
 
 # Keep a copy of all the recordings you make. If you don’t set up backups, your recordings will only be saved when you choose to download them.
 #
 # 保留您进行的所有录制的备份。如果您不设置备份，只有在决定下载它们时才会保存您的录制。
 #. Backups description
 msgid "backupsDescription1"
-msgstr ""
-"Keep a copy of all the recordings you make. If you don’t set up backups, "
-"your recordings will only be saved when you choose to download them."
+msgstr "為您每個錄影保留副本。如果您不設定備份，您的錄影只會在您選擇下載時才會被儲存。"
 
 # You might need to create a new folder first if you're trying to save to Downloads or other system folders.
 #
 # 如果您尝试保存到下载或其他系统文件夹，则可能需要首先创建一个新文件夹。
 #. Backups description
 msgid "backupsDescription2"
-msgstr ""
-"You might need to create a new folder first if you're trying to save to "
-"Downloads or other system folders."
+msgstr "您可能會需要先建立新資料夾才能儲存到《下載》或是其他系統資料夾當中。"
 
 # Select a folder
 #
@@ -1706,9 +1690,7 @@ msgstr "您的錄製已在本機備份"
 # 为了避免每次录制时都请求权限，我们建议保持此选项卡打开。
 #. Backups on description
 msgid "backupsOnDescription"
-msgstr ""
-"To prevent being asked for permissions every time you record, we recommend "
-"leaving this tab open."
+msgstr "要防止每次錄製的時候都被要求權限，我們建議維持這個分頁開啟。"
 
 # Close tab anyway
 #
@@ -1729,17 +1711,14 @@ msgstr "停止備份所有錄影"
 # 请重新确认对Screenity本地备份文件夹的访问权限
 #. Backups confirm title
 msgid "backupsConfirmTitle"
-msgstr "Please reconfirm access to your local Screenity backup folder"
+msgstr "請重新確認對於您的 Screenity 本機備份資料夾的存取權"
 
 # We’re sorry, but we need your permission once more to keep backing up your recordings. Unfortunately we will need to ask every time this tab is closed, which can happen if you close the browser or restart your computer.
 #
 # 很抱歉，我们需要再次获得您的许可，以继续创建您的录制的本地副本。不幸的是，每次关闭此选项卡时，我们都需要询问，这可能会在您关闭浏览器或重新启动计算机时发生。
 #. Backups confirm description
 msgid "backupsConfirmDescription"
-msgstr ""
-"We’re sorry, but we need your permission once more to keep backing up your "
-"recordings. Unfortunately we will need to ask every time this tab is "
-"closed, which can happen if you close the browser or restart your computer."
+msgstr "不好意思，我們需要重新要求您的權限來繼續備份您的錄影。不幸的，每次這個分頁關閉（包含瀏覽器關閉或是電腦重啟）的時候我們都需要再重新詢問權限。"
 
 # Allow Screenity to keep backing up recordings
 #
@@ -1768,10 +1747,8 @@ msgstr "未提供權限以備份錄影"
 #. Backup permission fail description
 msgid "backupPermissionFailDescription"
 msgstr ""
-"You didn't select a folder to backup your recordings. Depending on your "
-"browser version or operating system you might be asked to select the folder "
-"every time you start recording. You can try again, or disable backups "
-"entirely if you'd rather not give permissions repeatedly."
+"您沒有選擇備份錄影的資料夾。依您的瀏覽器版本或是作業系統，每次開始錄製的時候可能都會請您再次選擇資料夾。您可以再試一次，或是如果不希望一天到晚重複提供權限的"
+"話也可以選擇完全停用備份。"
 
 # Record computer audio
 #
@@ -1785,9 +1762,7 @@ msgstr "錄製電腦音訊"
 # 在macOS上，您只能录制选项卡的音频。请选择'Chrome选项卡'选项，并确保启用'同时共享选项卡音频'选项。
 #. macOS audio warning description
 msgid "recordAudioWarningMacDescription"
-msgstr ""
-"In macOS, you can only record Tab audio. Select the Chrome Tab option and "
-"make sure 'Also share tab audio' is enabled."
+msgstr "在 macOS 上，您只能錄製分頁音訊。請選擇「Chrome 分頁」選項然後確保「也分享分頁音訊」有啟用。"
 
 # Record computer audio
 #
@@ -1801,10 +1776,7 @@ msgstr "錄製電腦音訊"
 # 如果您想录制计算机音频，请确保启用'共享系统音频'选项。如果您看不到此选项，请尝试更新Chrome或切换到选项卡录制选项。
 #. Other audio warning description
 msgid "recordAudioWarningOtherDescription"
-msgstr ""
-"Make sure to enable the option to 'Share system audio' if you want to "
-"record computer audio. If you don't see this option, try updating Chrome, "
-"or switch to Tab recording."
+msgstr "如果您要錄製電腦音訊請確保您啟用「分享系統音訊」選項。如果您沒有看到這個選項，請嘗試更新 Chrome 或是改為使用分頁錄製。"
 
 # Max resolution
 #
